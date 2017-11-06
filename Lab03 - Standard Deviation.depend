@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506349238 source:g:\programming\lab03 - standard deviation\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
